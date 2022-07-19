@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+    font-family: "Arial", sans-serif;
+}
+h3 a {
+    color: green; 
+ }
+ h1{
+    font-size: 36px;
+    text-transform: uppercase;
+    line-height: 36px;
+}
+h2{
+    text-align: center;
+    margin: 30px;
+    font-size: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    margin-bottom: 30px;
+}
+.header{
+    background-color: #000;
+}
+.header li a{
+    color: white; 
+}
+.header img{
+    width: 258px;
+    height: 45px;
+}
+.header-line,
+.footer-line{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    align-items: center;
+    background-color: #1c1c1c ;
+}
+.main-menu{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    list-style: none;
+}
+.main-menu a{
+    font-size: 12px;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.main-menu a:hover{
+    color: green;
+    text-decoration: underline;
+    transition: 0.5s all ease;
+}
+.main-menu a{
+    margin: 23px;
+}
+.header-bg,
+.header-bg a{
+    color: white;
+}
+.header-bg a{
+    display: inline-block;
+    background-color: #3b8526;
+    padding: 22px 52px;
+    margin-top: 20px;
+    border-top: 4px solid #6bc349;
+    border-bottom: 4px solid rgba(0,0,0,.3);
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    transition: 0.5s all ease;
+}
+.header-bg a:hover{
+    background-color: black;
+    border-top: 4px solid black;
+}
+.header-bg{
+    background-size: cover;
+    background-image: url(	https://www.minecraft.net/content/dam/minecraft/home/home-hero-1200x600.jpg);
+    font-size: 18px;
+    height: 600px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.heder-content a{
+    font-size: 19.2px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.heder-content{
+    width: 35%;
+    font-size: 18px;
+    padding: 100px;
+    line-height: 26px;
+}
+
+.main{
+    padding: 50px 0;
+    background-color: #1c1c1c;
+}
+.wrapper h2{
+    font-size: 28px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.wrapper{
+    background-color: #eee;
+    width: 90%;
+    margin: 0 auto;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.games a{
+    font-size: 18px;
+    text-transform: uppercase;
+    color: rgb(25, 109, 23);
+    font-family: "Arial",sans-serif;
+    text-decoration: none;
+    text-align: center;
+}
+.games{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    transition: 0.5s all ease;
+}
+.games a:hover{
+    color: black;
+    text-decoration: underline;
+}
+.games>div{
+    width: 30%;
+}
+.games img{
+    width: 100%;
+}
+.footer ul{
+    list-style: none;
+}
+.footer{
+    border-top: 10px solid #000;
+    background-color: #1c1c1c;
+}
+.footer li a{
+    color: white;
+}
+.footer img{
+    width: 10%;
+}
+.footer a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.footer a:hover{
+    color: green;
+    text-decoration: underline;
+    transition: 1s all ease;
+}
+.lang{
+    display: flex;
+    align-items: center;
+}
+.footer-menu{
+    display: flex;
+    align-self: flex-start;
+}
+.footer-line{
+    width: 80%;
+    margin: 0 auto;
+}
