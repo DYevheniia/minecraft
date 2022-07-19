@@ -1,0 +1,450 @@
+body {
+    font-family: "Myriad Pro";
+    background-image: linear-gradient(2deg, #126082, rgba(26, 38, 46, .9) 100%), url(/img/Layer\ 6.png);
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    margin: 0 auto;
+}
+
+.about-sublime b {
+    font-size: 202px;
+    color: #ffc600;
+}
+
+.about-sublime p {
+    margin: 0;
+    padding-left: 165px;
+    font-size: 202px;
+    color: #ffffff;
+}
+
+.text p {
+    font-size: 18px;
+    color: #ffffff;
+    max-width: 400px;
+}
+
+.page {
+    background-image: url(/img/Layer\ 5.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 730px;
+    margin: 0 140px 0 140px;
+
+}
+
+.header-line {
+    padding: 100px 25px;
+}
+
+.headerline {
+    display: flex;
+    align-items: flex-start;
+}
+
+.page b {
+    font-size: 55px;
+    line-height: 48px;
+    color: #ffc600;
+
+}
+
+.page p {
+    color: white;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 48px;
+    margin: 0;
+}
+
+.header-menu ul {
+    display: flex;
+}
+
+.header-menu a {
+    display: block;
+    padding: 30px 20px;
+    font-size: 18px;
+    color: #ffc600;
+    text-decoration: none;
+}
+
+.header-menu a:hover {
+    transition: 1s all ease;
+    color: #ffffff;
+    text-decoration: underline #ffc600;
+}
+
+main {
+    margin: 0 140px 0 140px;
+
+}
+
+.main-wrapper {
+    background-color: #ffffff;
+}
+
+.sublime {
+    display: flex;
+}
+
+.description {
+    padding-left: 150px;
+    padding-right: 25px;
+}
+
+.description h6 {
+    font-size: 16px;
+    color: #000000;
+}
+
+.description p {
+    font-size: 16px;
+    color: #000000;
+}
+
+.logo {
+    padding: 25px;
+}
+
+.logo p {
+    font-size: 50px;
+    color: #717171;
+    font-weight: bold;
+    margin: 0;
+}
+
+.info {
+    display: flex;
+    text-align: center;
+
+}
+
+.info img {
+    padding: 20px;
+    background-color: #e8e8e8;
+    border: 1px solid #ffa800;
+    border-radius: 30px;
+}
+
+.info h3 {
+    font-size: 18px;
+    color: #000000;
+}
+
+.info p {
+    font-size: 10px;
+    color: #000000;
+}
+
+.featured-projects {
+    padding-left: 25px;
+}
+
+.main-menu ul {
+    padding: 0;
+    display: flex;
+    list-style: none;
+}
+
+.main-menu a {
+    display: block;
+    font-size: 9px;
+    color: #101010;
+    font-weight: bold;
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+.main-menu a:hover {
+    text-decoration: underline #ffc600;
+    transition: 1s all ease;
+}
+
+.photo img {
+    display: inline-block;
+    align-items: center;
+    width: 306.8px;
+    height: 300px;
+}
+
+.main-3 {
+    padding: 25px 25px 0 25px;
+}
+
+.main-3 img {
+    width: 450px;
+    height: 300px;
+}
+
+.strategic-process img {
+    margin: 25px 25px 0 25px;
+    width: 20%;
+}
+
+.image {
+    padding: 0 125px 0 125px;
+
+}
+
+.start b {
+    display: block;
+    padding-top: 10px;
+    font-size: 18px;
+    color: #000000;
+}
+
+.start p {
+    font-size: 16px;
+    color: #000000;
+}
+
+.our-process,
+.method,
+.outcome {
+    display: flex;
+    align-items: center;
+}
+
+.our-process h2,
+.method h2,
+.outcome h2 {
+    margin-top: 0;
+    font-size: 50px;
+    color: #1d1d1d;
+    font-weight: bold;
+}
+
+.our-process b,
+.method b,
+.outcome b {
+    font-size: 18px;
+    color: #000000;
+}
+
+.our-process p,
+.method p,
+.outcome p {
+    font-size: 16px;
+    color: #000000;
+    margin-bottom: 0 auto;
+}
+
+.our-process-1,
+.method-1,
+.outcome-1 {
+    padding: 0 50px 0 50px;
+}
+
+.main-4 {
+    background-image: linear-gradient(70deg, #3d2038, rgba(0, 21, 139, .7) 100%), url(/img/Layer\ 26.png);
+    height: 400px;
+    padding: 25px 25px 0 25px;
+}
+
+.main-4 h3 {
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.main-4 p {
+    font-size: 11px;
+    color: #ffffff;
+}
+
+.app-game {
+    display: flex;
+    width: 60%;
+    padding-left: 400px;
+    padding-top: 30px;
+}
+
+.app {
+    padding-right: 20px;
+}
+
+.main-5 {
+    padding: 25px 25px 0 25px;
+}
+
+.indenture {
+    padding-left: 50px;
+}
+
+.indenture b,
+.indenture p {
+    font-size: 16px;
+    color: #000000;
+}
+
+.our-team-1 {
+    display: flex;
+}
+
+.team {
+    display: flex;
+    margin-left: 160px;
+    margin-right: 25px;
+    text-align: center;
+}
+
+.team img {
+    width: 187px;
+}
+
+.team h5 {
+    margin-bottom: 0;
+    font-size: 18px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.team p {
+    margin: 0;
+    font-size: 16px;
+    color: #000000;
+    font-weight: bold;
+
+}
+
+footer {
+    margin: 0 140px 0 140px;
+
+}
+
+.footer-1 {
+    padding: 25px 25px 0 25px;
+    background-color: #000000;
+}
+
+.testimonials-1 {
+    display: flex;
+    align-items: center;
+}
+
+.testimonials-2 {
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.john-doe {
+    text-align: center;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.john-doe img {
+    border: 3px solid #ffa800;
+    border-radius: 70px;
+}
+
+.footer-2 {
+    padding: 25px 25px 0 25px;
+    background-color: #ffffff;
+}
+
+.blog-menu ul {
+    margin-right: 100px;
+}
+
+.blog-menu li {
+    list-style: none;
+}
+
+.blog-menu a {
+    font-size: 18px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.blog-menu a:hover {
+    color: #ffc600;
+    text-decoration: underline #ffc600;
+}
+
+.blog-content {
+    display: flex;
+}
+
+.blog2016 {
+    display: flex;
+    width: 80%;
+}
+
+.blog2016 img {
+    width: 160px;
+    height: 150px;
+}
+
+.blog2016 figure {
+    margin-right: 0;
+
+}
+
+.blog2016 h2 {
+    font-size: 18px;
+    color: #ffc600;
+}
+
+.blog2016 b {
+    font-size: 20px;
+    color: #000000;
+}
+
+.blog2016 p {
+    font-size: 18px;
+    color: #000000;
+}
+
+.footer-3 {
+    display: flex;
+}
+
+.footer-menu {
+    background-color: #000000;
+    padding: 25px 25px 0 25px;
+}
+
+.footer-menu ul {
+    list-style: none;
+    padding-top: 35px;
+}
+
+.footer-menu a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 36px;
+}
+.footer-menu a:hover {
+    color: #ffc600;
+    text-decoration: underline #ffc600;
+    transform: scale(2);
+    line-height: 36px;
+}
+.footer-menu p{
+    margin: 0;
+}
+.awesome-games{
+    background-image: linear-gradient(45deg,#1e2023,rgba(30, 32, 35, .7) 100%), url(/img/Layer\ 47.png);
+    width: 100%;
+    height: 600px;
+    padding-bottom: 40px;
+}
+
+.awesome-games b {
+    font-size: 111px;
+    line-height: 48px;
+    color: #ffc600;
+
+}
+
+.awesome-games p {
+    color: white;
+    font-weight: bold;
+    font-size: 111px;
+    margin: 0;
+    padding: 350px 0 0 70px;
+    max-width: 800px;
+}
